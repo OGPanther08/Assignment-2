@@ -1,6 +1,6 @@
 # Assignment-2
 Nathan Morris 700711272 CS4710
-This Repository should include Questions 1 through 5 given on Programming-Assignment-1
+This Repository should include Questions 1 through 5 given on Programming-Assignment-1\n
 Question_1 is using a loop to print out a pyramid of "*"
 Question_2 is printing out the odd indices of a given array
 Question_3 is determining and then printing out the type of each item i a list
